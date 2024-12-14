@@ -219,7 +219,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Adăugăm imaginea vectorului pe aceeași linie cu locația
       const vectorImg = document.createElement("img");
-      vectorImg.src = "../images/Vector.png"; 
+      if (window.location.hostname === "localhost") {
+        vectorImg.src = "../images/Vector.png"; // Cale pentru localhost 
+      } else { 
+        vectorImg.src = "https://aura80.github.io/search-events-on-cards/images/Vector.png"; // Cale pentru GitHub Pages 
+      } 
       vectorImg.alt = "Vector Image";
       vectorImg.style.width = "20px"; 
       vectorImg.style.height = "20px"; 
