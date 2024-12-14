@@ -219,7 +219,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Adăugăm imaginea vectorului pe aceeași linie cu locația
       const vectorImg = document.createElement("img");
-      vectorImg.src = "images/Vector.png"; 
+      vectorImg.src = "../images/Vector.png"; 
       vectorImg.alt = "Vector Image";
       vectorImg.style.width = "7px"; 
       vectorImg.style.height = "10px"; 
@@ -293,10 +293,3 @@ function createPagination(totalPages, currentPage, searchTerm = "") {
 }
 
 });
-
-
-
-
-
-
-

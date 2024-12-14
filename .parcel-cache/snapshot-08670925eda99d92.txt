@@ -1,4 +1,4 @@
-7427
+7431
 111C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\object-inspect\package.json133786532964511710 0
 93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\gopd\test133786532953043469 1
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-merge-rules\LICENSE-MIT133786532948620182 0
@@ -8,7 +8,7 @@
 109C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\web-streams-polyfill\dist133786532976700811 1
 100C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\stylehacks\types133786532968001153 1
 131C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133786532973561728 0
-75C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist133786559596874507 1
+75C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist133786740294598896 1
 90C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@babel133786532932791578 1
 105C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\dunder-proto\set.d.ts133786532959716991 0
 122C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\css-tree\lib\generator\token-before.js133786532977945538 0
@@ -89,15 +89,15 @@
 96C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\content-type133786532952937074 1
 130C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-merge-longhand\src\lib\decl\boxBase.js133786532951990749 0
 136C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133786532977366192 0
-84C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\server.js133786496041024123 0
+84C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\server.js133786739312160601 0
 117C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\caniuse-lite\data\features\url.js133786532999908251 0
 113C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-reduce-transforms\src133786532949633890 1
-83C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\package.json133786559397808040 0
+83C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\package.json133786742819808243 0
 137C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133786532978973544 0
 117C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\web-streams-polyfill\package.json133786532965244444 0
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\caniuse-lite\data\regions\SB.js133786532997751754 0
 105C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-discard-empty133786532953754190 1
-89C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\buy-tickets.js133786475207587634 0
+89C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\buy-tickets.js133786720922922822 0
 123C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133786532969174754 0
 127C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\entities\lib\generated\decode-data-xml.d.ts133786532968125368 0
 125C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@swc\helpers\_\_class_private_method_init133786532977751736 1
@@ -122,7 +122,7 @@
 146C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133786532963279698 0
 74C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src133786511220520788 1
 135C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\stylehacks\types\plugins\leadingUnderscore.d.ts.map133786532965334163 0
-85C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\index.html133786510342696238 0
+85C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\index.html133786709023453887 0
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\lmdb\util\set-optional-deps.cjs133786532971614486 0
 94C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\call-bound133786532958046798 1
 131C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\caniuse-lite\data\features\custom-elementsv1.js133786532978575402 0
@@ -147,7 +147,7 @@
 105C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\svgo\plugins\_path.js133786532965922198 0
 114C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\side-channel-list\package.json133786532955330356 0
 120C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-discard-overridden\README.md133786532952371296 0
-84C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\script.js133786475869571833 0
+84C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\src\script.js133786728808337357 0
 161C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-modules-scope\node_modules\postcss-selector-parser\dist\util\index.js133786532960484455 0
 80C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\.cache\5f133786511867687233 1
 100C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\tslib\tslib.d.ts133786532959268652 0
@@ -7140,6 +7140,7 @@
 132C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\requests\ConfigRequest.test.js133786532968151594 0
 125C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\common-targets133786532976741296 1
 132C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\common-targets-ignore133786532976700811 1
+97C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.c981fa59.js.map133786740294585930 0
 135C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\config-extends-not-found133786532960935015 1
 127C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\config-malformed133786532951549760 1
 131C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\config-node-pipeline133786532954364177 1
@@ -7311,10 +7312,13 @@
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\.bin\update-browserslist-db.ps1133786533002432363 0
 94C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.37335931.css133786559596797822 0
 98C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.37335931.css.map133786559596860452 0
+93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.6e8dbf01.js133786740294465428 0
+97C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.6e8dbf01.js.map133786740294585930 0
 93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.9fe3b366.js133786559596797822 0
 97C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.9fe3b366.js.map133786559596874507 0
 97C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.aa6985af.js.map133786559596860452 0
-86C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.html133786559596787822 0
+93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.c981fa59.js133786740294465428 0
+86C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.html133786740294465428 0
 99C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\.github\workflows\deploy.yml133786516017253103 0
 80C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\.cache\01133786511865936214 1
 80C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\.cache\05133786511866348336 1
