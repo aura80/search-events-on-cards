@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upcoming Events Around the World</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Upcoming Events Around the World</h1>
+
+  <!-- Input de căutare și buton -->
+  <input type="text" id="searchInput" placeholder="Enter event name">
+  <button id="searchButton">Search</button>
+
+  <div id="eventContainer" class="event-container"></div>
+
+  <!-- Container pentru navigarea între pagini -->
+  <div id="paginationContainer" class="pagination-container"></div>
+
+  <!-- Structura modalului -->
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>      <!-- reprezintă caracterul „×” (semn de înmulțire) -->
+      <p id="modalEventName"></p>
+      <button id="buyTicketButton">Buy Ticket</button>
+      <button id="buyStandardTicketButton">Buy Ticket (Standard Prices)</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="buy-tickets.js"></script>
+</body>
+</html>
