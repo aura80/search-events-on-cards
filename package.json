@@ -2,13 +2,11 @@
   "name": "search",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
   "type": "module",
   "homepage": "https://aura80.github.io/search-events-on-cards/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/index.html --dist-dir dist --public-url /search-events-on-cards/",
-    "start": "node src/server.js"
+    "build": "parcel build src/index.html --dist-dir dist --public-url /search-events-on-cards/"
   },
   "keywords": [],
   "author": "",
@@ -18,10 +16,10 @@
     "express": "^4.21.2",
     "node-fetch": "^3.3.2",
     "parcel": "^2.13.2",
+    "postcss": "^8.4.49",
     "postcss-modules": "^6.0.1"
   },
   "devDependencies": {
-    "cssnano": "^7.0.6",
-    "postcss": "^8.4.49"
+    "cssnano": "^7.0.6"
   }
 }
