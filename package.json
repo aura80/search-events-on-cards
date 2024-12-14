@@ -4,9 +4,10 @@
   "description": "",
   "main": "script.js",
   "type": "module",
+  "homepage": "https://aura80.github.io/search-events-on-cards/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "build": "parcel build src/*.html --public-url /search-events-on-cards/"
   },
   "keywords": [],
   "author": "",
