@@ -229,6 +229,8 @@ document.addEventListener("DOMContentLoaded", function () {
       vectorImg.style.height = "20px"; 
       vectorImg.style.marginRight = "7px"; 
 
+      document.body.appendChild(vectorImg);
+
       // Adaugare la span
       locationContainer.appendChild(vectorImg);
       locationContainer.appendChild(document.createTextNode(eventLocation));
