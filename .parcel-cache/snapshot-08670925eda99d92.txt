@@ -1,4 +1,4 @@
-7505
+7507
 111C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\object-inspect\package.json133786532964511710 0
 93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\gopd\test133786532953043469 1
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-merge-rules\LICENSE-MIT133786532948620182 0
@@ -8,7 +8,7 @@
 109C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\web-streams-polyfill\dist133786532976700811 1
 100C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\stylehacks\types133786532968001153 1
 131C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133786532973561728 0
-75C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist133786740294598896 1
+75C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist133786786295000103 1
 147C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133786532977083337 0
 123C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\postcss-normalize-positions\LICENSE-MIT133786532948616446 0
 147C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133786532975571361 0
@@ -6359,6 +6359,7 @@
 105C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\body-parser\lib\types133786532956033694 1
 80C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\.cache\64133786511867727407 1
 113C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\body-parser\lib\types\text.js133786532955501903 0
+93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\images\Vector.png133786136741957346 0
 121C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\@parcel\core\lib\public\Dependency.js133786532968636715 0
 101C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\base-x\LICENSE.md133786532950910931 0
 100C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\base-x\README.md133786532952171276 0
@@ -7385,6 +7386,7 @@
 97C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\.bin\svgo.ps1133786533002403981 0
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\.bin\update-browserslist-db.cmd133786533002432363 0
 115C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\node_modules\.bin\update-browserslist-db.ps1133786533002432363 0
+82C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\images133786786295010074 1
 94C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.37335931.css133786559596797822 0
 98C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.37335931.css.map133786559596860452 0
 93C:\A-GoIT\Projects\GoIT\PROIECTE\Proiect 2 + js\search-events-on-cards\dist\index.6e8dbf01.js133786740294465428 0

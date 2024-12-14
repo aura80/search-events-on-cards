@@ -221,8 +221,8 @@ document.addEventListener("DOMContentLoaded", function () {
       const vectorImg = document.createElement("img");
       vectorImg.src = "../images/Vector.png"; 
       vectorImg.alt = "Vector Image";
-      vectorImg.style.width = "7px"; 
-      vectorImg.style.height = "10px"; 
+      vectorImg.style.width = "20px"; 
+      vectorImg.style.height = "20px"; 
       vectorImg.style.marginRight = "7px"; 
 
       // Adaugare la span
